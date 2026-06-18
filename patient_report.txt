@@ -1,2 +1,0 @@
-=== Patient Summary Report ===
-Total appointments made: 1

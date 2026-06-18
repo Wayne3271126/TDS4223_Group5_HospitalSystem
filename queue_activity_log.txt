@@ -1,0 +1,4 @@
+[QUEUE] Patient used AI Diagnosis to create a new Appointment.
+[QUEUE] Patient manually created a new Appointment.
+[QUEUE] Patient manually created a new Appointment.
+[QUEUE] Patient manually created a new Appointment.
